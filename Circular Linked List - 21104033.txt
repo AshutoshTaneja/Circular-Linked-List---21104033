@@ -1,0 +1,12 @@
+A-1). The condition that the current node points to the same node that the head points to (head == next) establishes that the next node is the first node. Hence the traversing element/variable has reached the first element.
+
+
+
+
+A-2). Some practical applications of circular linked lists are:
+
+1. Music Playlist: The prev song is connected to the next song in a playlist and the last song is connected to the first song.
+
+2. Windows Alt+Tab: when the alt key is held and tab key is pressed in succesion the window switches between all open applications in the Taskbar. The last window and the first window are connected to each other.
+
+3.  Sequential Games (Online Ludo): In a sequential game players make moves  one at a time and when the last player makes the move the turn is now for the first player to make the move. Hence the node of the last player is connected the first player.
